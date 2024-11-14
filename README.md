@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Java, C e SQL**
 
-- 💬 Me pergunte sobre **Excel, Python, HTML,CSS,Java e JavaScript**
+- 💬 Me pergunte sobre **Excel, Python, HTML,CSS e JavaScript**
 
 - 📫 Você me acha atraves do E-mail **cavalcanteisabella84@gmail.com**
 
